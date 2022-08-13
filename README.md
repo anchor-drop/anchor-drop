@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=anchor">](https://www.acmicpc.net/user/anchor)
+[<img width=100% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=anchor">](https://www.acmicpc.net/user/anchor)
 
 Here are some ideas to get you started:
 
