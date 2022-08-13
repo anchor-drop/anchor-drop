@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anchor-drop/anchor-drop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=anchor">](https://www.acmicpc.net/user/anchor)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
